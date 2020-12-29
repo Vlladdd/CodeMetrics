@@ -1,0 +1,2 @@
+if x == 2 {if x == 2{var t =0} else {var g = 5}}if x==4{var g = 2 }else {var h = 0} /*a b b*/
+for x in y { var t = 3}
